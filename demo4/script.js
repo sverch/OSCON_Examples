@@ -5,7 +5,7 @@ var chicken_soup_recipe = {
     '_id' : 'chicken_noodle_soup',
     'name': 'Chicken Noodle Soup',
     'main_ingredient': 'chicken',
-    'ingredients' : ['chicken', 'noodles']
+    'ingredients' : ['chicken', 'noodles'],
     'calories' : 180,
     'contributor' : {
         'name' : 'Grandma Ople',
@@ -17,7 +17,7 @@ var apple_pie_recipe = {
     '_id' : 'apple_pie',
     'name' : 'Apple Pie',
     'main_ingredient' : 'apple',
-    'ingredients' : ['sugar', 'butter', 'apples', 'crust']
+    'ingredients' : ['sugar', 'butter', 'apples', 'crust'],
     'calories' : 230,
     'contributor' : {
         'name' : 'Joe American',
